@@ -1,2 +1,2 @@
-# Strange Knot Art
-My art journal documenting my journey in (re)learning to draw
+### The First Step
+![foot-1](../img/foot-1.png)
