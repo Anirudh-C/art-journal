@@ -1,2 +1,2 @@
 ### The First Step
-![foot-1](../img/foot-1.png)
+![foot-1](https://raw.githubusercontent.com/Anirudh-C/art-journal/master/img/foot-1.png)
