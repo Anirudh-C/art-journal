@@ -1,3 +1,5 @@
+### [21-08-2022] Pawn Storm
+![pawn](https://raw.githubusercontent.com/Anirudh-C/art-journal/master/img/pawn.png)
 ### [20-08-2022] 1984 - 2019
 ![1984-2019](https://raw.githubusercontent.com/Anirudh-C/art-journal/master/img/1984-2019.png)
 ### [19-08-2022] Forbidden Bite
