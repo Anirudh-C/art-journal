@@ -1,3 +1,5 @@
+### [12-09-2022] MirrorBall
+![mirrorball](https://raw.githubusercontent.com/Anirudh-C/art-journal/master/img/mirrorball.png)
 ### [11-08-2022] Floating Space
 ![floating-space](https://raw.githubusercontent.com/Anirudh-C/art-journal/master/img/floating-space.png)
 ### [21-07-2022] Pawn Storm
